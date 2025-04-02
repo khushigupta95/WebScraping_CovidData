@@ -21,3 +21,5 @@ This project is focused on web scraping COVID-19 data from reliable sources usin
 - **website source** - [Worldometer](https://www.worldometers.info/coronavirus/).
 - **Dataset after cleaning** -[Download dataset](https://github.com/khushigupta95/WebScraping_CovidData/blob/main/wordometer_data.xls)
 
+## Conclusion
+Covid data was scraped ,cleaned and transferred into a csv file making it suitable for further analysis .
