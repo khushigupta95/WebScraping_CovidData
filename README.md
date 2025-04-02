@@ -17,19 +17,7 @@ This project is focused on web scraping COVID-19 data from reliable sources usin
 
 
 ## Files Used
-- **scrape_covid_data.py** - The main script for web scraping.
-- **requirements.txt** - List of required dependencies.
-- **output/** - Directory where scraped data is saved.
-- **README.md** - Documentation for the project.
+- **Cleaning steps** - [Jupyter Notebook](https://github.com/khushigupta95/WebScraping_CovidData/blob/main/WebScraping%20(2).ipynb)
+- **website source** - [Worldometer](https://www.worldometers.info/coronavirus/).
+- **Dataset after cleaning** -[Download dataset](https://github.com/khushigupta95/WebScraping_CovidData/blob/main/wordometer_data.xls)
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions, feel free to reach out or open an issue in the repository.
-
----
-📌 **GitHub Repository:** [WebScraping_CovidData](https://github.com/khushigupta95/WebScraping_CovidData)
